@@ -5,7 +5,7 @@ public class Ortak_Class {
         System.out.println("Ortak Class");
         System.out.println("selamlar");
         System.out.println("Buralar karışacak vaziyet alın");
-
+        System.out.println("BURADAN BABAYIGIT GECTI");
         
 
     }
